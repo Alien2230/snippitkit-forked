@@ -1,6 +1,6 @@
-# <a href="https://snippetkit.netlify.app" target="_blank">SnippetKit - Edit & Download Your's Code Snippets</a>
+# <a href="https://snippitkit.vercel.app" target="_blank">snippitKit - Edit & Download Your's Code snippits</a>
 
-SnippetKit is a lightweight web tool for producing polished code screenshots and shareable code templates. Paste or type code into the editor, pick a language for Prism.js syntax highlighting, choose fonts and themes, and fine-tune padding, border radius, and font size to match your brand or post style. Preview updates live and export high-quality PNG or SVG files, or copy images/links directly to the clipboard (secure contexts). SnippetKit also supports autoloading language components, dynamic Google Font loading, and accessible keyboard controls for the UI. Ideal for documentation, blog illustrations, social media posts, and tutorial screenshots — minimal, customizable, and easy to integrate into your workflow.
+snippitKit is a lightweight web tool for producing polished code screenshots and shareable code templates. Paste or type code into the editor, pick a language for Prism.js syntax highlighting, choose fonts and themes, and fine-tune padding, border radius, and font size to match your brand or post style. Preview updates live and export high-quality PNG or SVG files, or copy images/links directly to the clipboard (secure contexts). snippitKit also supports autoloading language components, dynamic Google Font loading, and accessible keyboard controls for the UI. Ideal for documentation, blog illustrations, social media posts, and tutorial screenshots — minimal, customizable, and easy to integrate into your workflow.
 
 <p align="left">
   <a href="./LICENSE">
@@ -11,16 +11,16 @@ SnippetKit is a lightweight web tool for producing polished code screenshots and
   <a href="https://github.com/byllzz">
     <img src="https://img.shields.io/badge/Author-Bilal%20Malik-9B72FF.svg?style=flat" />
   </a>
-<a href="https://github.com/byllzz/snippetkit/releases">
+<a href="https://github.com/byllzz/snippitkit/releases">
   <img src="https://img.shields.io/badge/Latest%20Release-30%20Dec%202025-9B72FF.svg" alt="Latest Release Badge" />
 </a>
 </p>
 
 <br>
 
-[![Visit SnippetKit](https://img.shields.io/badge/View-SnippetKit-9B72FF?style=flat)](https://snippetkit.netlify.app)
+[![Visit snippitKit](https://img.shields.io/badge/View-snippitKit-9B72FF?style=flat)](https://snippitkit.vercel.app)
 
-<img width="100%" alt="TaskStacker Preview" src="./assets/preview.png" />
+<img width="100%" alt="Snippitkit Preview" src="./assets/preview.png" />
 
 :star: Star me on GitHub — it helps!
 
@@ -43,7 +43,7 @@ SnippetKit is a lightweight web tool for producing polished code screenshots and
 
 ## Installation
 
-- [<b>GitHub</b>](https://github.com/byllzz/snippetkit) - Clone the repository to get the project files.
+- [<b>GitHub</b>](https://github.com/byllzz/snippitkit) - Clone the repository to get the project files.
 - [<b>VSCode / Any Code Editor</b>](https://code.visualstudio.com/) - To open and edit the code.
 - [<b>Live Server</b>](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Optional, to view your changes live in the browser.
 - [<b>Browser</b>](https://www.google.com/chrome/) - Open <code>index.html</code> to run the app.
@@ -70,10 +70,10 @@ SnippetKit is a lightweight web tool for producing polished code screenshots and
 - [<b>Prism.js</b>](https://prismjs.com/) - Syntax highlighting & autoloader.
 - [<b>dom-to-image-more</b>](https://www.npmjs.com/package/dom-to-image-more) - Export DOM to PNG / SVG.
 - [<b>Devicons (jsDelivr)</b>](https://cdn.jsdelivr.net/gh/devicons/devicon) - Language and tech icons.
-- [<b>Google Fonts</b>](https://fonts.google.com/) - Customizable fonts for code snippets.
+- [<b>Google Fonts</b>](https://fonts.google.com/) - Customizable fonts for code snippits.
 - [<b>Vite</b>](https://vitejs.dev/) - Dev server and build tool.
 - [<b>npm</b>](https://www.npmjs.com/) - Dependency and script management.
-- [<b>Netlify</b>](https://www.netlify.com/) - Hosting the static site online.
+- [<b>Netlify</b>](https://www.vercel.com/) - Hosting the static site online.
 
 # License 📄
 
