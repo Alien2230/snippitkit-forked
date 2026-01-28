@@ -1,4 +1,4 @@
-# <a href="https://snippitkit.vercel.app" target="_blank">snippitKit - Edit & Download Your's Code snippits</a>
+# <a href="https://snippitkit.vercel.app" target="_blank">SnippitKit - Edit & Download Your's Code snippits</a>
 
 snippitKit is a lightweight web tool for producing polished code screenshots and shareable code templates. Paste or type code into the editor, pick a language for Prism.js syntax highlighting, choose fonts and themes, and fine-tune padding, border radius, and font size to match your brand or post style. Preview updates live and export high-quality PNG or SVG files, or copy images/links directly to the clipboard (secure contexts). snippitKit also supports autoloading language components, dynamic Google Font loading, and accessible keyboard controls for the UI. Ideal for documentation, blog illustrations, social media posts, and tutorial screenshots — minimal, customizable, and easy to integrate into your workflow.
 
